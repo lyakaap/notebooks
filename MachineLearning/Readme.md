@@ -7,3 +7,5 @@
 * 決定木
 
 ## ch04
+* pandasを使ったデータの扱い
+* 特徴量選択（ランダムフォレストのfeature_importance_）
