@@ -8,6 +8,7 @@
 
 ## ch04
 * pandasを使ったデータの扱い
+* 正則化
 * 特徴量選択（ランダムフォレストのfeature_importance_）
 
 ## ch05
